@@ -5,7 +5,6 @@ To compile the source codes, do this command in the directory
 
 ```
 make
-
 ```
 This will create an executable file, named "TerminalInvaders".
 Double click on it, or ./TerminalInvaders to play the game.
